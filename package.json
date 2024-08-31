@@ -37,8 +37,8 @@
     "lighthouse": "^6.3.0",
     "open": "^7.2.1",
     "prettier": "^2.0.5",
-    "webpack": "^4.43.0",
-    "webpack-stream": "^5.2.1"
+    "webpack": "^5.94.0",
+    "webpack-stream": "^7.0.0"
   },
   "browserslist": [
     "last 4 version"
